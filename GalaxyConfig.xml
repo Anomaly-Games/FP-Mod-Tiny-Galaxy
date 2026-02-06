@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GalaxySetup>
+  <!--Can not be higher then 20 and lower then 1-->
+  <GAL_NumberOfSolSystems>6</GAL_NumberOfSolSystems>
+</GalaxySetup>
